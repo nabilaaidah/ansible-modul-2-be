@@ -1,0 +1,5 @@
+[default_server]
+20.2.87.62
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python3
